@@ -1,2 +1,2 @@
 # PenguinPoo
-Determines possible trajectories and abdominal pressure to reach a desired fecal distance.
+Determines possible fecal trajectories and abdominal pressure to reach a desired distance.
