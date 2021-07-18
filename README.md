@@ -18,11 +18,14 @@ For the fixed launch velocity (<img src="https://latex.codecogs.com/svg.image?v_
 
 ### Abdominal Pressures
 
-The required abdominal pressures of the penguins for the scenarios were calculated using methods discussed in Section V of the article "Projectile Trajectory of Penguin's Faeces and Rectal Pressure Revisited" by Hiroyuki Tajima and Fumiya Fujisawa (2005 Ig Nobel Prize winner). The article describes abdominal pressure in terms of previously described kinematics and the following values:
+The required abdominal pressures of the penguins for the scenarios were calculated using methods discussed in Section V of the article "Projectile Trajectory of Penguin's Faeces and Rectal Pressure Revisited" by Hiroyuki Tajima and Fumiya Fujisawa. The article describes abdominal pressure in terms of kinematics and the following values:
 
 > <img src="https://latex.codecogs.com/svg.image?C" title="C" /> = 0.611 (typical coefficient of contraction for penguins)
+
 > <img src="https://latex.codecogs.com/svg.image?\rho&space;" title="\rho " /> = 1141 kg/m^3 (mass density of penguin feces)
+
 > <img src="https://latex.codecogs.com/svg.image?r" title="r" /> = 0.004 m (average radius of penguin sphincter)
+
 > <img src="https://latex.codecogs.com/svg.image?R" title="R" /> = 0.1 m (assumed radius of penguin stomach)
 
 Based on the terms provided, Bernoulli's theorem for non-viscous feces liquids can be used to determine the required abdominal pressure (<img src="https://latex.codecogs.com/svg.image?P_{a}" title="P_{a}" />) in the following equation:
