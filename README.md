@@ -13,12 +13,12 @@ For the fixed launch angle (<img src="https://latex.codecogs.com/svg.image?\thet
 
 > <img src="https://latex.codecogs.com/svg.image?v_{0x}&space;=&space;v_{0}\cdot&space;cos(\theta&space;_{0})&space;\rightarrow&space;&space;x(t)&space;=&space;v_{0x}\cdot&space;t" title="v_{0x} = v_{0}\cdot cos(\Theta _{0}) \rightarrow x(t) = v_{0x}\cdot t" />
 
-> This procedure is integrated into two custom function: `ProjectileKinem.m` and `ProjectilePosit.m`
+> NOTE: This procedure is integrated into two custom function: `ProjectileKinem.m` and `ProjectilePosit.m`
 
 ### Fixed Launch Velocity
 For the fixed launch velocity (<img src="https://latex.codecogs.com/svg.image?v_{0}" title="v_{0}" />), the horizontal distance travelled (range) is calculated as a function of the launch angle ranging from -90 to 90 degrees. The curve of this function is plotted with a horizontal line at the target distance (as seen in *PART B*). The intercepts of the horizontal line and the curve are calculated based on the minimum difference between the points of both lines. The intercepts are the two possible angles required to hit the target distance from the specified height (<img src="https://latex.codecogs.com/svg.image?h" title="h" />), which are printed to the MATLAB Command Window along with the specified <img src="https://latex.codecogs.com/svg.image?v_{0}" title="v_{0}" /> (as seen in the *Command Window* under *PART B*). The launch trajectories were then calculated and plotted (*PART C*) using the previously mentioned kinematic equations.
 
-> This procedure is integrated into two custom function: `ProjectileKinem.m` and `ProjectilePosit.m`
+> NOTE: This procedure is integrated into two custom function: `ProjectileKinem.m` and `ProjectilePosit.m`
 
 ### Abdominal Pressures
 
@@ -40,7 +40,7 @@ In the previous equation, <img src="https://latex.codecogs.com/svg.image?V" titl
 
 > <img src="https://latex.codecogs.com/svg.image?V&space;=&space;\frac{C\pi&space;r^{2}}{2g}&space;\cdot&space;&space;\left&space;[v_{0y}\cdot&space;v_{0}&space;-&space;(v_{0y}&space;-&space;gT)\sqrt{(gT&space;-&space;_{v0y})^{2}&plus;v_{0x}^{2}}&space;-&space;v_{0x}^{2}\cdot&space;ln\left&space;(&space;&space;\frac{\sqrt{gT&space;-&space;v_{0y}^{2}&space;&plus;&space;v_{0x}^{2}}&space;-&space;gT&space;&plus;&space;v_{0y}}{v_{0}&space;&plus;&space;v_{0y}}\right&space;)&space;&space;&space;\right&space;]" title="V = \frac{C\pi r^{2}}{2g} \cdot \left [v_{0y}\cdot v_{0} - (v_{0y} - gT)\sqrt{(gT - _{v0y})^{2}+v_{0x}^{2}} - v_{0x}^{2}\cdot ln\left ( \frac{\sqrt{gT - v_{0y}^{2} + v_{0x}^{2}} - gT + v_{0y}}{v_{0} + v_{0y}}\right ) \right ]" />
 
-> This procedure is integrated into a custom function: `AbdPressurePenguin.m`
+> NOTE: This procedure is integrated into a custom function: `AbdPressurePenguin.m`
 
 ### Figures
 
