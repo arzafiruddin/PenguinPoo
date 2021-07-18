@@ -57,4 +57,4 @@ In the previous equation, <img src="https://latex.codecogs.com/svg.image?V" titl
 
 ## Acknowledgments
 - Dr. Naji Husseini, PhD (North Carolina State University - Department of Biomedical Engineering) advised development as part of BMME 201 course
-- Hiroyuki Tajima and Fumiya Fujisawa (Kochi University - Department of Mathematics and Physics) sourced literature regarding penguin abdominal pressures
+- Hiroyuki Tajima and Fumiya Fujisawa (Kochi University - Department of Mathematics and Physics) provided literature regarding penguin abdominal pressures
