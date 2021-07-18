@@ -9,9 +9,9 @@ The trajectories are calculated based on two different scenario; a fixed launch 
 ### Fixed Launch Angle
 For the fixed launch angle, the horizontal distance travelled (range) is calculated as a function of the launch velocity magnitude ranging from 0 to 3 m/s. This curve of this function is plotted with a horizontal line at the target distance (as seen in *PART A*). The intercept of the horizontal line and the curve are calculated based on the minimum difference between the point of the both lines. The intercept is the required initial velocity to hit the target distance from the specified height, which is printed to the MATLAB Command Window along with the specified fixed launch angle (as seen in the *Command Window* under *PART A*). The launch trajectory was then calculated and plotted using the following kinematic equations for both the x and y direction (  ):
 
-> <img src="https://latex.codecogs.com/svg.image?y&space;=&space;h&space;&plus;&space;v_{0y}(t)&space;&plus;&space;\frac{1}{2}g(t)^{2}" title="y = h + v_{0y}(t) + \frac{1}{2}g(t)^{2}" />
+> <img src="https://latex.codecogs.com/svg.image?y(t)&space;=&space;h&space;&plus;&space;v_{0y}(t)&space;&plus;&space;\frac{1}{2}(g)(t)^{2}" title="y(t) = h + v_{0y}(t) + \frac{1}{2}(g)(t)^{2}" />
 
-> <img src="https://latex.codecogs.com/svg.image?x(t)&space;=&space;0&space;&plus;&space;v_{0x}(t)&space;&plus;&space;\frac{1}{2}(0)(t)^{2}&space;=&space;v_{0x}(t)" title="x(t) = 0 + v_{0x}(t) + \frac{1}{2}(0)(t)^{2} = v_{0x}(t)" />
+> <img src="https://latex.codecogs.com/svg.image?x(t)&space;=&space;v_{0x}(t)" title="x(t) = v_{0x}(t)" />
 
 ---
 
