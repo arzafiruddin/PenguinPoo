@@ -47,7 +47,8 @@ In the previous equation, <img src="https://latex.codecogs.com/svg.image?V" titl
 <img src="https://github.com/arzafiruddin/PenguinPoo/blob/8673964bf02aa7d67ccfbe8ce5e02fd1c79d40c2/readme_assets/d_gif.gif">
 
 ## Dependencies
-- None
+- MATLAB Optimization Toolbox
 
-## Acknowledgements
-- TBA
+## Acknowledgments
+- Dr. Naji Husseini, PhD (North Carolina State University - Department of Biomedical Engineering) advised development as part of BMME 201 course
+- Hiroyuki Tajima and Fumiya Fujisawa (Kochi University - Department of Mathematics and Physics) sourced literature regarding penguin abdominal pressures
