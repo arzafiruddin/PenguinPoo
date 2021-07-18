@@ -28,7 +28,7 @@ The required abdominal pressures of the penguins for the scenarios were calculat
 
 > <img src="https://latex.codecogs.com/svg.image?R" title="R" /> = 0.1 m (assumed radius of penguin stomach)
 
-Based on the terms provided, Bernoulli's theorem for non-viscous feces liquids can be used to determine the required abdominal pressure (<img src="https://latex.codecogs.com/svg.image?P_{a}" title="P_{a}" />) in the following equation:
+Based on the terms provided, Bernoulli's theorem for non-viscous feces liquids can be used to determine the required abdominal pressure (<img src="https://latex.codecogs.com/svg.image?P_{a}" title="P_{a}" />) with the following equation:
 
 > <img src="https://latex.codecogs.com/svg.image?P_{a}&space;=&space;\frac{1}{2}\rho&space;v_{0}^{2}&space;-&space;\frac{\rho&space;g}{\pi&space;R^{2}}V" title="P_{a} = \frac{1}{2}\rho v_{0}^{2} - \frac{\rho g}{\pi R^{2}}V" />
 
