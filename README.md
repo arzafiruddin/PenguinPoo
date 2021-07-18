@@ -36,7 +36,7 @@ In the previous equation, <img src="https://latex.codecogs.com/svg.image?V" titl
 
 > <img src="https://latex.codecogs.com/svg.image?V&space;=&space;\frac{C\pi&space;r^{2}}{2g}&space;\cdot&space;&space;\left&space;[v_{0y}\cdot&space;v_{0}&space;-&space;(v_{0y}&space;-&space;gT)\sqrt{(gT&space;-&space;_{v0y})^{2}&plus;v_{0x}^{2}}&space;-&space;v_{0x}^{2}\cdot&space;ln\left&space;(&space;&space;\frac{\sqrt{gT&space;-&space;v_{0y}^{2}&space;&plus;&space;v_{0x}^{2}}&space;-&space;gT&space;&plus;&space;v_{0y}}{v_{0}&space;&plus;&space;v_{0y}}\right&space;)&space;&space;&space;\right&space;]" title="V = \frac{C\pi r^{2}}{2g} \cdot \left [v_{0y}\cdot v_{0} - (v_{0y} - gT)\sqrt{(gT - _{v0y})^{2}+v_{0x}^{2}} - v_{0x}^{2}\cdot ln\left ( \frac{\sqrt{gT - v_{0y}^{2} + v_{0x}^{2}} - gT + v_{0y}}{v_{0} + v_{0y}}\right ) \right ]" />
 
-## Figures
+### Figures
 
 *FIGURE 1* - Trajectories and pressures of varying initial heights (0.25 m to 3 m)
 
